@@ -1,1 +1,4 @@
-An example of a Buildkite pipeline, where artifacts are shared between parent and triggered builds
+# buildkite-triggered-build-example
+An example showing parent + triggered builds sharing artifacts
+
+(this is the parent pipeline)
